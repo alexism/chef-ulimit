@@ -2,6 +2,9 @@
 
 This file is used to list changes made in each version of ulimit.
 
+## 0.3.1
+* temporary workaround for https://github.com/bmhatfield/chef-ulimit/issues/10
+
 ## 0.3.0
 
 * Add Domain LWRP for arbitrary rule creation. Thanks for Chris Roberts (https://github.com/chrisroberts)
